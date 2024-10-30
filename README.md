@@ -1,6 +1,11 @@
 # Scala Sample Problems
 Solutions to Sample Problems in Scala. 
 
+---
+**NOTE**
+Edit (2025) This was for a job interview in 2019. This solution was accepted and considered very strong.
+---
+
 ## Run the Application with SBT
  * In console, from the project root directory, we need to open an SBT session
    * `> sbt` 
